@@ -12,7 +12,7 @@ Conservation scores:
 
 Sift scores:  
 [Parallel script for running sift score script for each chromosome](https://github.com/DebGreer/MSc_Project/blob/master/parallel_sift_all.sh)  
-[Creating SIFT score reference file script](https://github.com/DebGreer/MSc_Project/blob/master/sift_ref_file_v3.sh)  
+[Creating SIFT score reference file script](https://github.com/DebGreer/MSc_Project/blob/master/sift_ref_file_v2.sh)  
 
 #### Per sample pipeline
 Obtaining posterior probabilities:  
