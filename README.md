@@ -33,3 +33,6 @@ Supplementary figures:
 [Heterozygosity graph](https://github.com/DebGreer/MSc_Project/blob/master/Heterozygosity_graph_v3.R)  
 [Prior comparison](https://github.com/DebGreer/MSc_Project/blob/master/Prior_comparison_v2.R)  
 [Downsampling tests](https://github.com/DebGreer/MSc_Project/blob/master/Downsampling_tests.R)
+
+If you are using this pipeline or benefit from our approach, please cite the following:
+Greer, D. 2020. _Extinction Genomics: The Case of Grey Wolves Year_. Master Thesis. Queen Mary University of London.
